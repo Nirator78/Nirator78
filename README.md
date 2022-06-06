@@ -1,4 +1,4 @@
-# Hello World ! 🎮🎩🎓🖥</h1
+# Hello World ! 🎮🎩🎓🖥
 ## Je suis Nirator et je suis développeur FullStack Junior !
 
 - Je suis passionné de developement depuis tout jeune, je préfère le back mais faire du front me dérange aucunement et j'adore le typescript !
