@@ -1,7 +1,7 @@
 # Hello World ! 🎮🎩🎓🖥
 ## Je suis Nirator et je suis développeur FullStack Junior !
 
-- Je suis passionné de developement depuis tout jeune, je préfère le back mais faire du front me dérange aucunement et j'adore le typescript !
+- Je suis passionné de developement depuis tout jeune, je préfère le backend mais faire du frontend me dérange aucunement et j'adore le typescript !
 - 💬 N'hésitez pas à me contacter pour des projets !
 - 📫 Contactez moi via cette adresse mail : nirator.dev@gmail.com
 
