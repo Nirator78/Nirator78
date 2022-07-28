@@ -37,7 +37,7 @@
 <a href="https://getbootstrap.com" rel="nofollow" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"> </a>
 <a href="https://tailwindcss.com/" rel="nofollow" target="_blank"> <img src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" alt="tailwind" width="40" height="40"> </a>
 <a href="https://discord.js.org/#/" rel="nofollow" target="_blank"> <img src="https://play-lh.googleusercontent.com/fbrWR4LbtB_1Ulgz3_rw8bY3tx_zPU7A9ZOB5WYG_QmqOUUjA6JEzE_20GA4YBDWMx4" alt="discord" width="40" height="40"> </a>
-<a href="https://core.telegram.org/" rel="nofollow" target="_blank"> <img src="https://commons.wikimedia.org/w/index.php?title=File:Telegram_2019_Logo.svg&lang=fr&uselang=fr" alt="telegram" width="40" height="40"> </a>
+<a href="https://core.telegram.org/" rel="nofollow" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/langfr-220px-Telegram_2019_Logo.svg.png" alt="telegram" width="40" height="40"> </a>
 
 ### Autres :
 <a href="https://postman.com" rel="nofollow" target="_blank"> <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40"> </a>
