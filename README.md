@@ -22,7 +22,7 @@
 <a href="https://docs.microsoft.com/fr-fr/powershell/scripting/overview?view=powershell-7.2" rel="nofollow" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" alt="powershell" width="40" height="40"> </a>
 <a href="https://fr.wikipedia.org/wiki/C_(langage)" rel="nofollow" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/800px-The_C_Programming_Language_logo.svg.png" alt="c" width="40" height="40"> </a>
 <a href="https://fr.wikipedia.org/wiki/C%2B%2B" rel="nofollow" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="40" height="40"> </a>
-<a href="https://fr.wikipedia.org/wiki/Python_(langage)" rel="nofollow" target="_blank"> <img src="https://uc3/Python-logo-notext.svg" alt="python" width="40" height="40"> </a>
+<a href="https://fr.wikipedia.org/wiki/Python_(langage)" rel="nofollow" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png" alt="python" width="40" height="40"> </a>
 
 ### Framework Front :
 <a href="https://fr.reactjs.org/" rel="nofollow" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="reactjs" width="40" height="40"> </a>
