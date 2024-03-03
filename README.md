@@ -26,6 +26,7 @@
 
 ### Framework Front :
 <a href="https://fr.reactjs.org/" rel="nofollow" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="reactjs" width="40" height="40"> </a>
+<a href="https://nextjs.org/" rel="nofollow" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"> </a>
 <a href="https://angularjs.org/" rel="nofollow" target="_blank"> <img src="https://www.la-revanche-des-sites.fr/wp-content/uploads/2013/07/angularjs_0-2.png" alt="angularjs" width="40" height="40"> </a>
 <a href="https://angular.io/" rel="nofollow" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png" alt="angular" width="40" height="40"> </a>
 <a href="https://symfony.com" rel="nofollow" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="symfony" width="40" height="40"> </a>
