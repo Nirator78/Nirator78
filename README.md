@@ -28,21 +28,21 @@
 <a href="https://fr.reactjs.org/" rel="nofollow" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="reactjs" width="40" height="40"> </a>
 <a href="https://angularjs.org/" rel="nofollow" target="_blank"> <img src="https://www.la-revanche-des-sites.fr/wp-content/uploads/2013/07/angularjs_0-2.png" alt="angularjs" width="40" height="40"> </a>
 <a href="https://angular.io/" rel="nofollow" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png" alt="angular" width="40" height="40"> </a>
-<a href="https://symfony.com" rel="nofollow" target="_blank"> <img src="https://camo.githubusercontent.com/1db24c6c39a6a99fa17530e099333c559c9a5efafe2ae36c73fac8263924c573/68747470733a2f2f73796d666f6e792e636f6d2f6c6f676f732f73796d666f6e795f626c61636b5f30332e737667" alt="symfony" width="40" height="40"> </a>
+<a href="https://symfony.com" rel="nofollow" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="symfony" width="40" height="40"> </a>
 
 ### Framework Back :
 <a href="https://nestjs.com/" rel="nofollow" target="_blank"> <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="nestjs" width="40" height="40"> </a>
-<a href="https://symfony.com" rel="nofollow" target="_blank"> <img src="https://camo.githubusercontent.com/1db24c6c39a6a99fa17530e099333c559c9a5efafe2ae36c73fac8263924c573/68747470733a2f2f73796d666f6e792e636f6d2f6c6f676f732f73796d666f6e795f626c61636b5f30332e737667" alt="symfony" width="40" height="40"> </a>
+<a href="https://symfony.com" rel="nofollow" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="symfony" width="40" height="40"> </a>
 
 ### Librairies :
 <a href="https://getbootstrap.com" rel="nofollow" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"> </a>
-<a href="https://tailwindcss.com/" rel="nofollow" target="_blank"> <img src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" alt="tailwind" width="40" height="40"> </a>
+<a href="https://tailwindcss.com/" rel="nofollow" target="_blank"> <img src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4" alt="tailwind" width="40" height="40"> </a>
 <a href="https://discord.js.org/#/" rel="nofollow" target="_blank"> <img src="https://play-lh.googleusercontent.com/fbrWR4LbtB_1Ulgz3_rw8bY3tx_zPU7A9ZOB5WYG_QmqOUUjA6JEzE_20GA4YBDWMx4" alt="discord" width="40" height="40"> </a>
 <a href="https://core.telegram.org/" rel="nofollow" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/langfr-220px-Telegram_2019_Logo.svg.png" alt="telegram" width="40" height="40"> </a>
 <a href="https://stripe.com/fr" rel="nofollow" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/langfr-420px-Stripe_Logo%2C_revised_2016.svg.png" alt="stripe" width="40" height="40"> </a>
 
 ### Autres :
-<a href="https://postman.com" rel="nofollow" target="_blank"> <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40"> </a>
-<a href="https://git-scm.com/" rel="nofollow" target="_blank"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40"> </a>
-<a href="https://www.figma.com/" rel="nofollow" target="_blank"> <img src="https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667" alt="figma" width="40" height="40"> </a>
+<a href="https://postman.com" rel="nofollow" target="_blank"> <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"> </a>
+<a href="https://git-scm.com/" rel="nofollow" target="_blank"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"> </a>
+<a href="https://www.figma.com/" rel="nofollow" target="_blank"> <img src="https://logodownload.org/wp-content/uploads/2022/12/figma-logo-0.png" alt="figma" width="40" height="40"> </a>
 
