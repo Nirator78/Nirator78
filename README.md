@@ -46,3 +46,7 @@
 <a href="https://git-scm.com/" rel="nofollow" target="_blank"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"> </a>
 <a href="https://www.figma.com/" rel="nofollow" target="_blank"> <img src="https://logodownload.org/wp-content/uploads/2022/12/figma-logo-0.png" alt="figma" width="40" height="40"> </a>
 
+### NoCode :
+<a href="https://www.mailerlite.com/" rel="nofollow" target="_blank"> <img src="https://asset.brandfetch.io/idB-3CfF_3/idcrfpzUPP.png" alt="mailerlite" width="40" height="40"> </a>
+<a href="https://zapier.com/" rel="nofollow" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/zapier_logo_icon_169680.png" alt="zapier" width="40" height="40"> </a>
+
