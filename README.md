@@ -1,8 +1,7 @@
 # Hello World ! 🎮🎩🎓🖥
-## Je suis Nirator et je suis développeur FullStack !
+## Nirator, fullstack dev
 
-- Je suis passionné de developement depuis tout jeune, je préfère le backend mais faire du frontend me dérange aucunement et j'adore le typescript !
-- 💬 N'hésitez pas à me contacter pour des projets !
+- Bbackend and Typescript lover ❤❤❤ !
 - 📫 Contactez moi via cette adresse mail : nirator.dev@gmail.com
 
 
