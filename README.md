@@ -1,7 +1,7 @@
 # Hello World ! 🎮🎩🎓🖥
 ## Nirator, fullstack dev
 
-- Bbackend and Typescript lover ❤❤❤ !
+- Backend and Typescript lover ❤❤❤ !
 - 📫 Contactez moi via cette adresse mail : nirator.dev@gmail.com
 
 
