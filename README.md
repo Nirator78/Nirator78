@@ -2,10 +2,14 @@
 ## Nirator, fullstack dev
 
 - Backend and Typescript lover ❤❤❤ !
-- 📫 Contactez moi via cette adresse mail : nirator.dev@gmail.com
+- 📫 Contact me at this email : nirator.dev@gmail.com
 
+## My open source project :
 
-## Langages et Outils :
+[Package update checker](https://github.com/Nirator78/package-update-checker) - A little application to check if package need update or not and send alert if update needed
+[Gedmo auto update change field](https://github.com/Nirator78/gedmo-auto-update-field) - A python script to auto update field in gedmo doctrine extension
+
+## Languages and Tools :
 
 ### Base de données :
 <a href="https://www.microsoft.com/fr-fr/sql-server/sql-server-downloads" rel="nofollow" target="_blank"> <img src="https://www.klipfolio.com/sites/default/files/integrations/mssql.png" alt="sqlserver" height="40"></img> </a>
@@ -51,4 +55,3 @@
 ### NoCode :
 <a href="https://www.mailerlite.com/" rel="nofollow" target="_blank"> <img src="https://asset.brandfetch.io/idB-3CfF_3/idcrfpzUPP.png" alt="mailerlite" width="40" height="40"> </a>
 <a href="https://zapier.com/" rel="nofollow" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/zapier_logo_icon_169680.png" alt="zapier" width="40" height="40"> </a>
-
