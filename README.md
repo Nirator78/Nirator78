@@ -4,6 +4,8 @@
 - Backend and Typescript lover ❤❤❤ !
 - 📫 Contact me at this email : nirator.dev@gmail.com
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nirator78&show_icons=true&theme=gruvbox)
+
 ## My open source project :
 
 [Package update checker](https://github.com/Nirator78/package-update-checker) - A little application to check if package need update or not and send alert if update needed
