@@ -17,7 +17,7 @@
 ### Database :
 <a href="https://www.microsoft.com/fr-fr/sql-server/sql-server-downloads" rel="nofollow" target="_blank"> <img src="https://www.klipfolio.com/sites/default/files/integrations/mssql.png" alt="sqlserver" height="40"></img> </a>
 <a href="https://www.mysql.com/" rel="nofollow" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"> </a>
-<a href="https://www.mongodb.com/fr-fr" rel="nofollow" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="mongodb" height="40"> </a>
+<a href="https://www.mongodb.com/fr-fr" rel="nofollow" target="_blank"> <img src="https://worldvectorlogo.com/fr/logo/mongodb-icon-2" alt="mongodb" height="40"> </a>
 
 ### Languages :
 <a href="https://www.w3.org/html/" rel="nofollow" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"> </a>
