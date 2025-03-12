@@ -15,9 +15,9 @@
 ## Skills :
 
 ### Database :
-<a href="https://www.microsoft.com/fr-fr/sql-server/sql-server-downloads" rel="nofollow" target="_blank"> <img src="https://www.klipfolio.com/sites/default/files/integrations/mssql.png" alt="sqlserver" height="40"></img> </a>
+<a href="https://www.microsoft.com/fr-fr/sql-server/sql-server-downloads" rel="nofollow" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="sqlserver" height="40"></img> </a>
 <a href="https://www.mysql.com/" rel="nofollow" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"> </a>
-<a href="https://www.mongodb.com/fr-fr" rel="nofollow" target="_blank"> <img src="https://worldvectorlogo.com/fr/logo/mongodb-icon-2" alt="mongodb" height="40"> </a>
+<a href="https://www.mongodb.com/fr-fr" rel="nofollow" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="mongodb" height="40"> </a>
 
 ### Languages :
 <a href="https://www.w3.org/html/" rel="nofollow" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"> </a>
@@ -56,7 +56,9 @@
 <a href="https://www.docker.com/" rel="nofollow" target="_blank"> <img src="https://www.alsacreations.com/xmedia/doc/original/1633864968-docker-moby.png" alt="docker" width="40" height="40"> </a>
 <a href="https://docs.teachable.com/" rel="nofollow" target="_blank"> <img src="https://assets-global.website-files.com/5ff319852fb4b1c3fc23719b/6135de02d87153e5884d5ede_Logo-Teachable.png" alt="teachable" width="40" height="40"> </a>
 <a href="https://docs.github.com/fr/actions" rel="nofollow" target="_blank"> <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" alt="github-action" width="40" height="40"> </a>
+<a href="https://www.learnworlds.com/" rel="nofollow" target="_blank"> <img src="https://www.fahimai.com/wp-content/uploads/2024/07/Untitled-design-1.png" alt="learnworld" width="40" height="40"> </a>
 
 ### NoCode :
 <a href="https://www.mailerlite.com/" rel="nofollow" target="_blank"> <img src="https://asset.brandfetch.io/idB-3CfF_3/idcrfpzUPP.png" alt="mailerlite" width="40" height="40"> </a>
 <a href="https://zapier.com/" rel="nofollow" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/zapier_logo_icon_169680.png" alt="zapier" width="40" height="40"> </a>
+<a href="https://n8n.io/" rel="nofollow" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1536335358803251202/-gASF0c6_400x400.png" alt="n8n" width="40" height="40"> </a>
