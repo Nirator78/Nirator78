@@ -15,50 +15,48 @@
 ## Skills :
 
 ### Database :
-<a href="https://www.microsoft.com/fr-fr/sql-server/sql-server-downloads" rel="nofollow" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="sqlserver" height="40"></img> </a>
-<a href="https://www.mysql.com/" rel="nofollow" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"> </a>
-<a href="https://www.mongodb.com/fr-fr" rel="nofollow" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="mongodb" height="40"> </a>
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Languages :
-<a href="https://www.w3.org/html/" rel="nofollow" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"> </a>
-<a href="https://www.w3schools.com/css/" rel="nofollow" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"> </a>
-<a href="https://www.typescriptlang.org/" rel="nofollow" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="40" height="40"> </a>
-<a href="https://www.php.net" rel="nofollow" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"> </a>
-<a href="https://docs.microsoft.com/fr-fr/powershell/scripting/overview?view=powershell-7.2" rel="nofollow" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" alt="powershell" width="40" height="40"> </a>
-<a href="https://fr.wikipedia.org/wiki/C_(langage)" rel="nofollow" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/800px-The_C_Programming_Language_logo.svg.png" alt="c" width="40" height="40"> </a>
-<a href="https://fr.wikipedia.org/wiki/C%2B%2B" rel="nofollow" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="40" height="40"> </a>
-<a href="https://fr.wikipedia.org/wiki/Python_(langage)" rel="nofollow" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png" alt="python" width="40" height="40"> </a>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Front Framework :
-<a href="https://fr.reactjs.org/" rel="nofollow" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="reactjs" width="40" height="40"> </a>
-<a href="https://nextjs.org/" rel="nofollow" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"> </a>
-<a href="https://angularjs.org/" rel="nofollow" target="_blank"> <img src="https://www.la-revanche-des-sites.fr/wp-content/uploads/2013/07/angularjs_0-2.png" alt="angularjs" width="40" height="40"> </a>
-<a href="https://angular.io/" rel="nofollow" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png" alt="angular" width="40" height="40"> </a>
-<a href="https://symfony.com" rel="nofollow" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="symfony" width="40" height="40"> </a>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 
 ### Back Framework :
-<a href="https://nestjs.com/" rel="nofollow" target="_blank"> <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="nestjs" width="40" height="40"> </a>
-<a href="https://symfony.com" rel="nofollow" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="symfony" width="40" height="40"> </a>
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 
 ### Implementation :
-<a href="https://getbootstrap.com" rel="nofollow" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"> </a>
-<a href="https://tailwindcss.com/" rel="nofollow" target="_blank"> <img src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4" alt="tailwind" width="40" height="40"> </a>
-<a href="https://discord.js.org/#/" rel="nofollow" target="_blank"> <img src="https://play-lh.googleusercontent.com/fbrWR4LbtB_1Ulgz3_rw8bY3tx_zPU7A9ZOB5WYG_QmqOUUjA6JEzE_20GA4YBDWMx4" alt="discord" width="40" height="40"> </a>
-<a href="https://core.telegram.org/" rel="nofollow" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/langfr-220px-Telegram_2019_Logo.svg.png" alt="telegram" width="40" height="40"> </a>
-<a href="https://stripe.com/fr" rel="nofollow" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/langfr-420px-Stripe_Logo%2C_revised_2016.svg.png" alt="stripe" width="40" height="40"> </a>
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 - Microsoft SSRS SOAP API
 
 ### Others :
-<a href="https://postman.com" rel="nofollow" target="_blank"> <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"> </a>
-<a href="https://git-scm.com/" rel="nofollow" target="_blank"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"> </a>
-<a href="https://www.figma.com/" rel="nofollow" target="_blank"> <img src="https://logodownload.org/wp-content/uploads/2022/12/figma-logo-0.png" alt="figma" width="40" height="40"> </a>
-<a href="https://www.docker.com/" rel="nofollow" target="_blank"> <img src="https://www.alsacreations.com/xmedia/doc/original/1633864968-docker-moby.png" alt="docker" width="40" height="40"> </a>
-<a href="https://docs.teachable.com/" rel="nofollow" target="_blank"> <img src="https://assets-global.website-files.com/5ff319852fb4b1c3fc23719b/6135de02d87153e5884d5ede_Logo-Teachable.png" alt="teachable" width="40" height="40"> </a>
-<a href="https://docs.github.com/fr/actions" rel="nofollow" target="_blank"> <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" alt="github-action" width="40" height="40"> </a>
-<a href="https://www.learnworlds.com/" rel="nofollow" target="_blank"> <img src="https://www.fahimai.com/wp-content/uploads/2024/07/Untitled-design-1.png" alt="learnworld" width="40" height="40"> </a>
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### NoCode :
-<a href="https://www.mailerlite.com/" rel="nofollow" target="_blank"> <img src="https://asset.brandfetch.io/idB-3CfF_3/idcrfpzUPP.png" alt="mailerlite" width="40" height="40"> </a>
-<a href="https://zapier.com/" rel="nofollow" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/zapier_logo_icon_169680.png" alt="zapier" width="40" height="40"> </a>
-<a href="https://n8n.io/" rel="nofollow" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1536335358803251202/-gASF0c6_400x400.png" alt="n8n" width="40" height="40"> </a>
+![MailerLite](https://img.shields.io/badge/MailerLite-00C853?style=for-the-badge&logo=mailerlite&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-2088FF?style=for-the-badge&logo=n8n&logoColor=white)
